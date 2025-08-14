@@ -1,2 +1,2 @@
-# password_generator
+# Password Generator
 Generates random 12 character password.
